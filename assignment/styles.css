@@ -1,6 +1,9 @@
 header {
   background-color: #007a3e;
  }
- div {
- background-color: #888b8d; 
+ .info {
+ background-color: #888b8d; color: #007a3e;
+ }
+ h3 {
+   background-color: #9b26b6; color: #6ba4b8;
  }
